@@ -5,4 +5,4 @@ Criar um jogo similar do FlappyBird para treinar manipulação da DOM com javasc
 *Sem utilização de qualquer framework.*
 
 # Desenvolvimento do Código
-Código desenvolvido durante o curso de javascript moderno da cod3r.
+Código desenvolvido durante o curso de web moderno da cod3r.
